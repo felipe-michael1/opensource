@@ -1,10 +1,9 @@
 <div align="center">
-  <img height="220" src="dancer.png"alt="React Brasil">
 	<br>
 	<br>
 	<p>
 		<h2>
-            <b>Lista Maravilhosa de Projetos Open-Source</b>
+            <b>Lista de Projetos Open-Source</b>
         </h2>
 	</p>
 	<br>
