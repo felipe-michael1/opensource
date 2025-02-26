@@ -8,34 +8,6 @@
 	</p>
 	<br>
 </div>
-<p align="center">
-	<sub><i>
-       Lista com links de projetos open-source. Dividido por linguagem, idiomas e país de origem do projeto.
-    </i></sub>
-  <br/>
-</p>
-<div align="center">
-
-[Iniciante](#iniciante)&nbsp;&nbsp;&nbsp;[Intermediário](#intermediário)&nbsp;&nbsp;&nbsp;[Avançado](#avançado)
-
-</div>
-
-<br/>
-
-## Como funciona
-
-:one: [Quero alterar/incluir meu/um projeto](meu-projeto.md)
-
-:two: [Quero contribuir com um projeto](contribuindo.md)
-
-:three: [Quero contribuir com a Lista Maravilhosa](contribuindo-lista.md)
-
-> Pesquise nos projetos escolhidos pela Label indicada na tabela
-
-<br/>
-<br/>
-
----
 
 <br/>
 
